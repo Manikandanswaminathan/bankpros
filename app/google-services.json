@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "891845772773",
+    "project_id": "bankpro-7aeaf",
+    "storage_bucket": "bankpro-7aeaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891845772773:android:0b2ca8bc9743e9e957db0c",
+        "android_client_info": {
+          "package_name": "bankpros.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891845772773-g11jstgv2knr80b6u0nri9plvbsn4apm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCv7emslNbLcpAoduTPvvjTZxdn-c-PRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891845772773-g11jstgv2knr80b6u0nri9plvbsn4apm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

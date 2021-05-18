@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">bankpros</string>
+    <string name="username">Username</string>
+    <string name="enter_the_username">Enter the Username</string>
+    <string name="email">Email</string>
+    <string name="enter_the_email">Enter the Email</string>
+    <string name="balance">Balance</string>
+    <string name="enter_the_balance">Enter the Balance</string>
+    <string name="create_user">Create User</string>
+    <string name="view_all_customers">VIEW ALL CUSTOMERS</string>
+    <string name="money_transfer">MONEY TRANSFER</string>
+    <string name="transaction_history">TRANSACTION HISTORY</string>
+    <string name="todo">TODO</string>
+    <string name="transfer_from">TRANSFER FROM</string>
+    <string name="transfer_to">TRANSFER TO</string>
+    <string-array name="TRANSFER_FROM">
+        <item> </item>
+        <item>ALLAN</item>
+        <item>ASHISH</item>
+        <item>ALEX</item>
+        <item>AKASHRAJ </item>
+        <item>SELVAM </item>
+    </string-array>
+    <string-array name="TRANSFER_TO">
+        <item> </item>
+        <item>ALLAN</item>
+        <item>ASHISH</item>
+        <item>ALEX</item>
+        <item>AKASHRAJ </item>
+        <item>SELVAM </item>
+    </string-array>
+</resources>
